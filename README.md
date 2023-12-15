@@ -1,7 +1,7 @@
 To start the application: 
 
-cd ./chainlink_app_frontend
+`cd ./chainlink_app_frontend`
 
-npm install
+`npm install`
 
-npm start
+`npm start`
